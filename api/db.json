@@ -6,6 +6,11 @@
       "body": "This is post one"
     },
     {
+      "title": "Post Two",
+      "body": "This is Post Two",
+      "id": 2
+    },
+    {
       "title": "Post Three",
       "body": "This is post three",
       "id": 3
