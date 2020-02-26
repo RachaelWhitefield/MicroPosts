@@ -1,6 +1,8 @@
 import { http } from "./http";
 import { ui } from "./ui";
 
+const port = process.env.PORT || 3000;
+
 // Get posts on DOM load
 document.addEventListener("DOMContentLoaded", getPosts);
 
